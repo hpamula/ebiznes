@@ -17,7 +17,7 @@ committed on Mar 26" and "hpamula committed on Mar 27"
 
 **Task 2**
 
-1/5 [Link do commita 1](https://github.com/hpamula/ebiznes/commit/hash)
+1/5 [Link do commita 1](https://github.com/hpamula/ebiznes/commit/78d642badc0aec00a9671602903d090fa87ccc4a)
 
 2/5 [Link do commita2 ](https://github.com/hpamula/ebiznes/commit/hash)
 
