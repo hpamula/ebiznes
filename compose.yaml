@@ -1,5 +1,0 @@
-version: '3.8'
-services:
-  app:
-    image: hpamula/ebiznes:0.0
-    build: .
